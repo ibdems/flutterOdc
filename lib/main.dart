@@ -15,9 +15,9 @@ Future <void> main() async{
   await database.utilisateurDao.insertUtilisateur(new Utilisateur(nom: "Dems", prenom: 'Ibrahima'));
 
 
-
+  var user = database.utilisateurDao.findAllUser();
   print(Utilisateur); 
-  
+
   runApp(const MyApp());
 }
 
