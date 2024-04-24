@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-xhdpi_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.chatapp-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.chatapp-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-hdpi_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.chatapp-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.chatapp-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.chatapp-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-mdpi_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-xxxhdpi_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.chatapp-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-xxhdpi_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.chatapp-merged_res-11:/drawable-ldpi_icon.png.flat",
+        "source": "com.example.chatapp-main-5:/drawable-ldpi/icon.png"
+    }
+]

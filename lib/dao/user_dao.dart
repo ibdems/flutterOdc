@@ -12,4 +12,9 @@ abstract class UtilisateurDao {
 
   @insert
   Future <void> insertUtilisateur(Utilisateur user);
+
+  @Update(onConflict: OnConflictStrategy.replace) /* Ajouter une option de remplacement au cas ou il yaurais conflit entre les cles */
+  Future<int> updateUtulisateur (Utilisateur user);
+  @delete
+  Future<void> deleteUtilisateur(Utilisateur user);
 }
